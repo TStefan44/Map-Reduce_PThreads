@@ -1,4 +1,5 @@
-    Explicatie data_thread: structura in care salvez informatiile necesare pentru
+    Explicatie data_thread:
+    structura in care salvez informatiile necesare pentru
 un thread, de la variabile prorpi precum thread_id sau denumirea fisierului de
 output, la variabile comune precum coada de fisiere de intrare pentru mappers sau
 numarul de fisiere nedeschise (aceste variabile sunt alocate in main, si salvate
